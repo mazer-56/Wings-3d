@@ -208,4 +208,4 @@ Wings 3D is available as a complete free version with all features and updates i
 Ready to unleash your creativity? Download **Wings 3D** now and start your journey into the world of 3D modeling!
 
 ---
-**Last updated:** 2026-09-22 13:43:44 UTC
+**Last updated:** 2026-09-22 17:47:51 UTC
